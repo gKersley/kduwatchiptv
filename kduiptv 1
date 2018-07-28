@@ -1,0 +1,974 @@
+#EXTM3U
+#EXTINF:-1,FR: HD1 HD
+http://217.182.173.184:8000/live/micha/micha/3199.ts
+#EXTINF:-1,FR: C8 HD
+http://217.182.173.184:8000/live/micha/micha/3196.ts
+#EXTINF:-1,FR: CSTAR HD
+http://217.182.173.184:8000/live/micha/micha/3195.ts
+#EXTINF:-1,FR: W9 HD
+http://217.182.173.184:8000/live/micha/micha/495.ts
+#EXTINF:-1,FR: W9
+http://217.182.173.184:8000/live/micha/micha/10576.ts
+#EXTINF:-1,FR: TMC HD
+http://217.182.173.184:8000/live/micha/micha/3194.ts
+#EXTINF:-1,FR: NRJ 12 HD
+http://217.182.173.184:8000/live/micha/micha/490.ts
+#EXTINF:-1,FR: M6 HD
+http://217.182.173.184:8000/live/micha/micha/481.ts
+#EXTINF:-1,FR: 6TER HD
+http://217.182.173.184:8000/live/micha/micha/454.ts
+#EXTINF:-1,FR: AB 1 HD
+http://217.182.173.184:8000/live/micha/micha/3198.ts
+#EXTINF:-1,FR: Ab3
+http://217.182.173.184:8000/live/micha/micha/10771.ts
+#EXTINF:-1,FR: RTL9
+http://217.182.173.184:8000/live/micha/micha/11435.ts
+#EXTINF:-1,FR: Teva HD
+http://217.182.173.184:8000/live/micha/micha/11437.ts
+#EXTINF:-1,FR: 13EME RUE HD
+http://217.182.173.184:8000/live/micha/micha/453.ts
+#EXTINF:-1,FR: TF1 HD
+http://217.182.173.184:8000/live/micha/micha/492.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://217.182.173.184:8000/live/micha/micha/479.ts
+#EXTINF:-1,FR: France 3 HD
+http://217.182.173.184:8000/live/micha/micha/11438.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://217.182.173.184:8000/live/micha/micha/477.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://217.182.173.184:8000/live/micha/micha/476.ts
+#EXTINF:-1,FR: FRANCE Ô HD
+http://217.182.173.184:8000/live/micha/micha/3201.ts
+#EXTINF:-1,FR: France 24
+http://217.182.173.184:8000/live/micha/micha/10780.ts
+#EXTINF:-1,FR: Comedie
+http://217.182.173.184:8000/live/micha/micha/11426.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://217.182.173.184:8000/live/micha/micha/10575.ts
+#EXTINF:-1,FR: Cine Club HD
+http://217.182.173.184:8000/live/micha/micha/11429.ts
+#EXTINF:-1,FR: Syfy
+http://217.182.173.184:8000/live/micha/micha/10574.ts
+#EXTINF:-1,FR: RTS 2 HD
+http://217.182.173.184:8000/live/micha/micha/11432.ts
+#EXTINF:-1,FR: E!
+http://217.182.173.184:8000/live/micha/micha/455.ts
+#EXTINF:-1,FR: PARIS PREMIERE
+http://217.182.173.184:8000/live/micha/micha/10557.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://217.182.173.184:8000/live/micha/micha/11430.ts
+#EXTINF:-1,FR: LUCKY JACK
+http://217.182.173.184:8000/live/micha/micha/11413.ts
+#EXTINF:-1,FR: TV BREIZH
+http://217.182.173.184:8000/live/micha/micha/11412.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://217.182.173.184:8000/live/micha/micha/484.ts
+#EXTINF:-1,FR: Cherie 25 HD
+http://217.182.173.184:8000/live/micha/micha/10772.ts
+#EXTINF:-1,FR: PARAMOUNT CHNANNEL HD
+http://217.182.173.184:8000/live/micha/micha/11427.ts
+#EXTINF:-1,FR: Action
+http://217.182.173.184:8000/live/micha/micha/10777.ts
+#EXTINF:-1,FR: CANAL HD
+http://217.182.173.184:8000/live/micha/micha/470.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://217.182.173.184:8000/live/micha/micha/467.ts
+#EXTINF:-1,FR: CANAL FAMILY HD
+http://217.182.173.184:8000/live/micha/micha/465.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://217.182.173.184:8000/live/micha/micha/466.ts
+#EXTINF:-1,FR: CANAL SERIES HD
+http://217.182.173.184:8000/live/micha/micha/468.ts
+#EXTINF:-1,FR: CINE
+http://217.182.173.184:8000/live/micha/micha/464.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://217.182.173.184:8000/live/micha/micha/457.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://217.182.173.184:8000/live/micha/micha/460.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://217.182.173.184:8000/live/micha/micha/462.ts
+#EXTINF:-1,FR: CINE FAMIZ HD
+http://217.182.173.184:8000/live/micha/micha/461.ts
+#EXTINF:-1,FR: CINE  CLASSIC
+http://217.182.173.184:8000/live/micha/micha/463.ts
+#EXTINF:-1,FR: CINE POLAR
+http://217.182.173.184:8000/live/micha/micha/458.ts
+#EXTINF:-1,FR: CINE FX
+http://217.182.173.184:8000/live/micha/micha/459.ts
+#EXTINF:-1,FR: TCM
+http://217.182.173.184:8000/live/micha/micha/3193.ts
+#EXTINF:-1,FR: NT1 HD
+http://217.182.173.184:8000/live/micha/micha/483.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://217.182.173.184:8000/live/micha/micha/485.ts
+#EXTINF:-1,FR: Ocs City HD
+http://217.182.173.184:8000/live/micha/micha/10779.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://217.182.173.184:8000/live/micha/micha/486.ts
+#EXTINF:-1,FR: Ocs Geant HD
+http://217.182.173.184:8000/live/micha/micha/10778.ts
+#EXTINF:-1,FR: Canal Play 1
+http://217.182.173.184:8000/live/micha/micha/11455.ts
+#EXTINF:-1,FR: Canal Play 2
+http://217.182.173.184:8000/live/micha/micha/11454.ts
+#EXTINF:-1,FR: Canal Play 3
+http://217.182.173.184:8000/live/micha/micha/11453.ts
+#EXTINF:-1,FR: Canal Play 4
+http://217.182.173.184:8000/live/micha/micha/11452.ts
+#EXTINF:-1,FR: Canal Play 5
+http://217.182.173.184:8000/live/micha/micha/11451.ts
+#EXTINF:-1,FR: Canal Play 6
+http://217.182.173.184:8000/live/micha/micha/11450.ts
+#EXTINF:-1,FR: Canal Play 7
+http://217.182.173.184:8000/live/micha/micha/11449.ts
+#EXTINF:-1,FR: Canal Play 8
+http://217.182.173.184:8000/live/micha/micha/11448.ts
+#EXTINF:-1,FR: Canal Play 9
+http://217.182.173.184:8000/live/micha/micha/11447.ts
+#EXTINF:-1,FR: Canal Play 10
+http://217.182.173.184:8000/live/micha/micha/11446.ts
+#EXTINF:-1,FR: Canal Play 11
+http://217.182.173.184:8000/live/micha/micha/11445.ts
+#EXTINF:-1,FR: Canal Play 12
+http://217.182.173.184:8000/live/micha/micha/11444.ts
+#EXTINF:-1,FR: Canal Play 13
+http://217.182.173.184:8000/live/micha/micha/11443.ts
+#EXTINF:-1,FR: Canal Play 14
+http://217.182.173.184:8000/live/micha/micha/11442.ts
+#EXTINF:-1,FR: Canal Play 15
+http://217.182.173.184:8000/live/micha/micha/11441.ts
+#EXTINF:-1,FR: Canal Play 16
+http://217.182.173.184:8000/live/micha/micha/11440.ts
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://217.182.173.184:8000/live/micha/micha/474.ts
+#EXTINF:-1,FR: Disney XD HD
+http://217.182.173.184:8000/live/micha/micha/3165.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://217.182.173.184:8000/live/micha/micha/3158.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://217.182.173.184:8000/live/micha/micha/3161.ts
+#EXTINF:-1,FR: DISNEY CHANELLE  1
+http://217.182.173.184:8000/live/micha/micha/11431.ts
+#EXTINF:-1,FR: NICKELODEON HD
+http://217.182.173.184:8000/live/micha/micha/3159.ts
+#EXTINF:-1,FR: Nickelodeon Junior
+http://217.182.173.184:8000/live/micha/micha/11436.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://217.182.173.184:8000/live/micha/micha/3157.ts
+#EXTINF:-1,FR: TELETOON  1 HD
+http://217.182.173.184:8000/live/micha/micha/3160.ts
+#EXTINF:-1,FR: Teletoon
+http://217.182.173.184:8000/live/micha/micha/11456.ts
+#EXTINF:-1,FR: BOOMERANG  HD
+http://217.182.173.184:8000/live/micha/micha/3162.ts
+#EXTINF:-1,FR: BOING
+http://217.182.173.184:8000/live/micha/micha/3166.ts
+#EXTINF:-1,FR: Canal J
+http://217.182.173.184:8000/live/micha/micha/11439.ts
+#EXTINF:-1,FR: Tiji
+http://217.182.173.184:8000/live/micha/micha/11425.ts
+#EXTINF:-1,FR: PIWI
+http://217.182.173.184:8000/live/micha/micha/3168.ts
+#EXTINF:-1,FR: GULLI
+http://217.182.173.184:8000/live/micha/micha/3167.ts
+#EXTINF:-1,FR: ZOU ZOU TV
+http://217.182.173.184:8000/live/micha/micha/475.ts
+#EXTINF:-1,FR: Game One HD
+http://217.182.173.184:8000/live/micha/micha/10578.ts
+#EXTINF:-1,FR: MANGAS HD
+http://217.182.173.184:8000/live/micha/micha/3164.ts
+#EXTINF:-1,FR: PLANET  HD
+http://217.182.173.184:8000/live/micha/micha/3170.ts
+#EXTINF:-1,FR: PLANETE CI HD
+http://217.182.173.184:8000/live/micha/micha/487.ts
+#EXTINF:-1,FR: PLANET A&E HD
+http://217.182.173.184:8000/live/micha/micha/3169.ts
+#EXTINF:-1,FR: PLANETE   A&E HD
+http://217.182.173.184:8000/live/micha/micha/10561.ts
+#EXTINF:-1,FR: PLANETE THALASSA
+http://217.182.173.184:8000/live/micha/micha/10560.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://217.182.173.184:8000/live/micha/micha/3171.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+http://217.182.173.184:8000/live/micha/micha/473.ts
+#EXTINF:-1,FR: SCIENCE ET VIE
+http://217.182.173.184:8000/live/micha/micha/489.ts
+#EXTINF:-1,FR: NAT GEOGRAPHIC HD
+http://217.182.173.184:8000/live/micha/micha/3174.ts
+#EXTINF:-1,FR: NAT GEO WILD
+http://217.182.173.184:8000/live/micha/micha/3173.ts
+#EXTINF:-1,FR: Ushuaia HD
+http://217.182.173.184:8000/live/micha/micha/10774.ts
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://217.182.173.184:8000/live/micha/micha/3175.ts
+#EXTINF:-1,FR: SEASON
+http://217.182.173.184:8000/live/micha/micha/3178.ts
+#EXTINF:-1,FR: ANIMAUX
+http://217.182.173.184:8000/live/micha/micha/10559.ts
+#EXTINF:-1,FR: HISTOIRE
+http://217.182.173.184:8000/live/micha/micha/3176.ts
+#EXTINF:-1,FR: Toute L'histoire
+http://217.182.173.184:8000/live/micha/micha/11433.ts
+#EXTINF:-1,FR: VOYAGE_HD
+http://217.182.173.184:8000/live/micha/micha/11434.ts
+#EXTINF:-1,FR: TREK HD
+http://217.182.173.184:8000/live/micha/micha/3177.ts
+#EXTINF:-1,FR: FASHION
+http://217.182.173.184:8000/live/micha/micha/11409.ts
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://217.182.173.184:8000/live/micha/micha/488.ts
+#EXTINF:-1,FR: BFM TV
+http://217.182.173.184:8000/live/micha/micha/3192.ts
+#EXTINF:-1,FR: BFM Business
+http://217.182.173.184:8000/live/micha/micha/10558.ts
+#EXTINF:-1,FR: I24
+http://217.182.173.184:8000/live/micha/micha/11410.ts
+#EXTINF:-1,FR: Euronews
+http://217.182.173.184:8000/live/micha/micha/10563.ts
+#EXTINF:-1,FR: FRANCE INFO
+http://217.182.173.184:8000/live/micha/micha/11411.ts
+#EXTINF:-1,FR: MTV
+http://217.182.173.184:8000/live/micha/micha/3186.ts
+#EXTINF:-1,FR: MTV HITS HD
+http://217.182.173.184:8000/live/micha/micha/3189.ts
+#EXTINF:-1,FR: MTV FRANCE
+http://217.182.173.184:8000/live/micha/micha/11415.ts
+#EXTINF:-1,FR: MTV  1 UK
+http://217.182.173.184:8000/live/micha/micha/11423.ts
+#EXTINF:-1,FR: MTV Classic UK
+http://217.182.173.184:8000/live/micha/micha/11420.ts
+#EXTINF:-1,FR: MTV Dance UK
+http://217.182.173.184:8000/live/micha/micha/11421.ts
+#EXTINF:-1,FR: MTV HD
+http://217.182.173.184:8000/live/micha/micha/11424.ts
+#EXTINF:-1,FR: MTV HITS UK
+http://217.182.173.184:8000/live/micha/micha/11416.ts
+#EXTINF:-1,FR: MTV LIVE HD UK
+http://217.182.173.184:8000/live/micha/micha/11417.ts
+#EXTINF:-1,FR: MTV Music UK
+http://217.182.173.184:8000/live/micha/micha/11422.ts
+#EXTINF:-1,FR: MTV BASE UK
+http://217.182.173.184:8000/live/micha/micha/11419.ts
+#EXTINF:-1,FR: MTV ROCKS UK
+http://217.182.173.184:8000/live/micha/micha/11418.ts
+#EXTINF:-1,FR: M6 MUSIC HITS
+http://217.182.173.184:8000/live/micha/micha/480.ts
+#EXTINF:-1,FR: NRJ MUSIC
+http://217.182.173.184:8000/live/micha/micha/482.ts
+#EXTINF:-1,FR: Afro Music Africa
+http://217.182.173.184:8000/live/micha/micha/11414.ts
+#EXTINF:-1,FR: TRACE URBAN
+http://217.182.173.184:8000/live/micha/micha/3188.ts
+#EXTINF:-1,FR: VIRGIN RADIO TV
+http://217.182.173.184:8000/live/micha/micha/3183.ts
+#EXTINF:-1,FR: MCM
+http://217.182.173.184:8000/live/micha/micha/3190.ts
+#EXTINF:-1,FR: MCM POP
+http://217.182.173.184:8000/live/micha/micha/3187.ts
+#EXTINF:-1,FR: NRJ HITS HD
+http://217.182.173.184:8000/live/micha/micha/3184.ts
+#EXTINF:-1,FR: BEiN SPORT 1
+http://217.182.173.184:8000/live/micha/micha/452.ts
+#EXTINF:-1,FR: BEiN SPORT 2
+http://217.182.173.184:8000/live/micha/micha/451.ts
+#EXTINF:-1,FR: BEiN SPORT 3
+http://217.182.173.184:8000/live/micha/micha/450.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://217.182.173.184:8000/live/micha/micha/449.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://217.182.173.184:8000/live/micha/micha/448.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://217.182.173.184:8000/live/micha/micha/447.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://217.182.173.184:8000/live/micha/micha/446.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://217.182.173.184:8000/live/micha/micha/10562.ts
+#EXTINF:-1,FR: SFR SPORT 1
+http://217.182.173.184:8000/live/micha/micha/11461.ts
+#EXTINF:-1,FR: SFR SPORT 2
+http://217.182.173.184:8000/live/micha/micha/11460.ts
+#EXTINF:-1,FR: SFR SPORT 3
+http://217.182.173.184:8000/live/micha/micha/11459.ts
+#EXTINF:-1,FR: SFR SPORT 4
+http://217.182.173.184:8000/live/micha/micha/11458.ts
+#EXTINF:-1,FR: SFR SPORT 5
+http://217.182.173.184:8000/live/micha/micha/11457.ts
+#EXTINF:-1,FR: INFO SPORT HD
+http://217.182.173.184:8000/live/micha/micha/3179.ts
+#EXTINF:-1,FR: InfoSport
+http://217.182.173.184:8000/live/micha/micha/10776.ts
+#EXTINF:-1,FR: Eurosport
+http://217.182.173.184:8000/live/micha/micha/10565.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://217.182.173.184:8000/live/micha/micha/10564.ts
+#EXTINF:-1,FR: Eurosport2
+http://217.182.173.184:8000/live/micha/micha/10567.ts
+#EXTINF:-1,FR: L’équipe
+http://217.182.173.184:8000/live/micha/micha/11408.ts
+#EXTINF:-1,FR: AB MOTEUR HD
+http://217.182.173.184:8000/live/micha/micha/3180.ts
+#EXTINF:-1,FR: Ab Moteurs
+http://217.182.173.184:8000/live/micha/micha/11407.ts
+#EXTINF:-1,FR: Golf
+http://217.182.173.184:8000/live/micha/micha/10770.ts
+#EXTINF:-1,FR: Bfm Sport
+http://217.182.173.184:8000/live/micha/micha/11406.ts
+#EXTINF:-1,FR: Foot 24/24
+http://217.182.173.184:8000/live/micha/micha/10566.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://217.182.173.184:8000/live/micha/micha/469.ts
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://217.182.173.184:8000/live/micha/micha/3182.ts
+#EXTINF:-1,FR: EQUIDIA LIFE HD
+http://217.182.173.184:8000/live/micha/micha/11428.ts
+#EXTINF:-1,FR: A la Carte 1
+http://217.182.173.184:8000/live/micha/micha/10569.ts
+#EXTINF:-1,FR: A la Carte 2
+http://217.182.173.184:8000/live/micha/micha/10570.ts
+#EXTINF:-1,FR: A la Carte 3
+http://217.182.173.184:8000/live/micha/micha/10571.ts
+#EXTINF:-1,FR: A la Carte 4
+http://217.182.173.184:8000/live/micha/micha/10572.ts
+#EXTINF:-1,FR: A la Carte 5
+http://217.182.173.184:8000/live/micha/micha/10573.ts
+#EXTINF:-1,FR: Men's UP
+http://217.182.173.184:8000/live/micha/micha/10773.ts
+#EXTINF:-1,FR: TV5 MONDE
+http://217.182.173.184:8000/live/micha/micha/10577.ts
+#EXTINF:-1,FR: Weo
+http://217.182.173.184:8000/live/micha/micha/10775.ts
+#EXTINF:-1,FR: ARTE HD
+http://217.182.173.184:8000/live/micha/micha/456.ts
+#EXTINF:-1,FR: D17 HD
+http://217.182.173.184:8000/live/micha/micha/471.ts
+#EXTINF:-1,FR: D8 HD
+http://217.182.173.184:8000/live/micha/micha/472.ts
+#EXTINF:-1,FR: i TELE HD
+http://217.182.173.184:8000/live/micha/micha/494.ts
+#EXTINF:-1,FR: CNA SAT TV FRANCE W
+http://217.182.173.184:8000/live/micha/micha/442.ts
+#EXTINF:-1,FR: L EQUIPE 21 HD
+http://217.182.173.184:8000/live/micha/micha/3181.ts
+#EXTINF:-1,FR: LCI HD
+http://217.182.173.184:8000/live/micha/micha/3197.ts
+#EXTINF:-1,FR: TV5 MONDE HD
+http://217.182.173.184:8000/live/micha/micha/3191.ts
+#EXTINF:-1,BE:  2BE HD
+http://217.182.173.184:8000/live/micha/micha/3599.ts
+#EXTINF:-1,BE: ATV Antwerpen
+http://217.182.173.184:8000/live/micha/micha/3583.ts
+#EXTINF:-1,BE: BEL RTL
+http://217.182.173.184:8000/live/micha/micha/3582.ts
+#EXTINF:-1,BE: BFM
+http://217.182.173.184:8000/live/micha/micha/3581.ts
+#EXTINF:-1,BE: Bruxelles TV
+http://217.182.173.184:8000/live/micha/micha/3580.ts
+#EXTINF:-1,BE: CANVAS  HD @
+http://217.182.173.184:8000/live/micha/micha/3598.ts
+#EXTINF:-1,BE: CAZ TV @
+http://217.182.173.184:8000/live/micha/micha/3569.ts
+#EXTINF:-1,BE: CINE
+http://217.182.173.184:8000/live/micha/micha/3579.ts
+#EXTINF:-1,BE: CINEMA 1
+http://217.182.173.184:8000/live/micha/micha/3578.ts
+#EXTINF:-1,BE: CINEMA 2
+http://217.182.173.184:8000/live/micha/micha/3577.ts
+#EXTINF:-1,BE: CLUB RTL
+http://217.182.173.184:8000/live/micha/micha/3590.ts
+#EXTINF:-1,BE: EEN HD @
+http://217.182.173.184:8000/live/micha/micha/3600.ts
+#EXTINF:-1,BE: KADET @
+http://217.182.173.184:8000/live/micha/micha/3589.ts
+#EXTINF:-1,BE: KETNET
+http://217.182.173.184:8000/live/micha/micha/3593.ts
+#EXTINF:-1,BE: KETOP12 @
+http://217.182.173.184:8000/live/micha/micha/3592.ts
+#EXTINF:-1,BE: La Deux
+http://217.182.173.184:8000/live/micha/micha/3585.ts
+#EXTINF:-1,BE: La Trois
+http://217.182.173.184:8000/live/micha/micha/3586.ts
+#EXTINF:-1,BE: La Une
+http://217.182.173.184:8000/live/micha/micha/3587.ts
+#EXTINF:-1,BE: Q2
+http://217.182.173.184:8000/live/micha/micha/3576.ts
+#EXTINF:-1,BE: RTL Luxemburg
+http://217.182.173.184:8000/live/micha/micha/3575.ts
+#EXTINF:-1,BE: SERIE
+http://217.182.173.184:8000/live/micha/micha/3574.ts
+#EXTINF:-1,BE: Televesdre
+http://217.182.173.184:8000/live/micha/micha/3573.ts
+#EXTINF:-1,BE: TV LUX
+http://217.182.173.184:8000/live/micha/micha/3572.ts
+#EXTINF:-1,BE: TVL
+http://217.182.173.184:8000/live/micha/micha/3571.ts
+#EXTINF:-1,BE: TVO
+http://217.182.173.184:8000/live/micha/micha/3570.ts
+#EXTINF:-1,BE: VIER HD
+http://217.182.173.184:8000/live/micha/micha/3597.ts
+#EXTINF:-1,BE: VIJF @
+http://217.182.173.184:8000/live/micha/micha/3596.ts
+#EXTINF:-1,BE: VITAYA @
+http://217.182.173.184:8000/live/micha/micha/3588.ts
+
+#EXTINF:-1,FR:W9
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/281.ts
+#EXTINF:-1,FR:FRANCE 0
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/284.ts
+#EXTINF:-1,FR:FRANCE2
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/285.ts
+#EXTINF:-1,FR:FRANCE3
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/286.ts
+#EXTINF:-1,FR:FRANCE4
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/287.ts
+#EXTINF:-1,FR:FRANCE5
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/288.ts
+#EXTINF:-1,FR:FRANCE 24
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/289.ts
+#EXTINF:-1,FR:DISCOVERY SCIENCE
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/297.ts
+#EXTINF:-1,FR:ARTE
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/291.ts
+#EXTINF:-1,FR:ANIMAUX
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/295.ts
+#EXTINF:-1,FR:TF1
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/282.ts
+#EXTINF:-1,FR:NT1
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/290.ts
+#EXTINF:-1,FR:M6
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/283.ts
+#EXTINF:-1,FR:AB MOTEURS
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/296.ts
+#EXTINF:-1,FR:DISCOVERY HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/730.ts
+#EXTINF:-1,FR:NAT GEO
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/727.ts
+#EXTINF:-1,FR:CANAL+ HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/723.ts
+#EXTINF:-1,FR:CANAL CINEMA HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/724.ts
+#EXTINF:-1,FR:CANAL+ SERIES
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/761.ts
+#EXTINF:-1,FR:CANAL+ DECALE HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/762.ts
+#EXTINF:-1,FR:CANAL DECALE HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/725.ts
+#EXTINF:-1,FR:CANAL  FAMILY
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/726.ts
+#EXTINF:-1,FR:CANAL+ SPORT HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/760.ts
+#EXTINF:-1,FR:OCS MAX HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/766.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/767.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/728.ts
+#EXTINF:-1,FR:CINE+ PREMIER
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/729.ts
+#EXTINF:-1,FR:CINE FAMIZ
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/764.ts
+#EXTINF:-1,FR:CINE EMOTION HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/765.ts
+#EXTINF:-1,FR:GULLI
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/299.ts
+#EXTINF:-1,FR:CANAL J
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/300.ts
+#EXTINF:-1,FR:DISNEY JUNIOR HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1801.ts
+#EXTINF:-1,FR:PIWI+
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1968.ts
+#EXTINF:-1,FR:BEIN SPORTS 1HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/293.ts
+#EXTINF:-1,FR:BEIN SPORTS 2HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/292.ts
+#EXTINF:-1,FR:BEIN SPORT 3 HD
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/294.ts
+#EXTINF:-1,FR:BEIN SPORT MAX4
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1023.ts
+#EXTINF:-1,FR:BEIN SPORT MAX5
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1024.ts
+#EXTINF:-1,FR:BEIN SPORT MAX6
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1025.ts
+#EXTINF:-1,FR:BEIN SPORT MAX7
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1026.ts
+#EXTINF:-1,FR:BEIN SPORT MAX8
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1027.ts
+#EXTINF:-1,FR:BEIN SPORT MAX9
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1028.ts
+#EXTINF:-1,FR:BEIN SPORT MAX10
+http://vizyon.pw:8000/live/aydgnglzrgmail.com/9996ER5H/1029.ts
+
+#EXTINF:-1,FR | TF1 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11410.ts
+#EXTINF:-1,FR | FRANCE O HD
+http://1.vip-src.com:8080/live/selahattin/candan/11404.ts
+#EXTINF:-1,FR | FRANCE 2 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11403.ts
+#EXTINF:-1,FR | FRANCE 3 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11402.ts
+#EXTINF:-1,FR | FRANCE 4 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11401.ts
+#EXTINF:-1,FR | FRANCE 5
+http://1.vip-src.com:8080/live/selahattin/candan/11400.ts
+#EXTINF:-1,FR | FRANCE 24
+http://1.vip-src.com:8080/live/selahattin/candan/11362.ts
+#EXTINF:-1,FR | GULLI HD
+http://1.vip-src.com:8080/live/selahattin/candan/11363.ts
+#EXTINF:-1,FR | I TELE
+http://1.vip-src.com:8080/live/selahattin/candan/11364.ts
+#EXTINF:-1,FR | L'EQUIPE 21
+http://1.vip-src.com:8080/live/selahattin/candan/11377.ts
+#EXTINF:-1,FR | M6 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11406.ts
+#EXTINF:-1,FR | M6 MUSIC
+http://1.vip-src.com:8080/live/selahattin/candan/11365.ts
+#EXTINF:-1,FR | MANGAS
+http://1.vip-src.com:8080/live/selahattin/candan/11366.ts
+#EXTINF:-1,FR | NRJ 12 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11391.ts
+#EXTINF:-1,FR | NT 1
+http://1.vip-src.com:8080/live/selahattin/candan/11389.ts
+#EXTINF:-1,FR | OCS CHOC HD
+http://1.vip-src.com:8080/live/selahattin/candan/11382.ts
+#EXTINF:-1,FR | PIWI
+http://1.vip-src.com:8080/live/selahattin/candan/11368.ts
+#EXTINF:-1,FR | PLANETE  CI HD
+http://1.vip-src.com:8080/live/selahattin/candan/11369.ts
+#EXTINF:-1,FR | PLANETE HD
+http://1.vip-src.com:8080/live/selahattin/candan/11370.ts
+#EXTINF:-1,FR | RMC DECOUVERTE
+http://1.vip-src.com:8080/live/selahattin/candan/11371.ts
+#EXTINF:-1,FR | RTL9
+http://1.vip-src.com:8080/live/selahattin/candan/11385.ts
+#EXTINF:-1,FR | SYFY HD
+http://1.vip-src.com:8080/live/selahattin/candan/11372.ts
+#EXTINF:-1,FR | Teva HD
+http://1.vip-src.com:8080/live/selahattin/candan/11379.ts
+#EXTINF:-1,FR | TMC
+http://1.vip-src.com:8080/live/selahattin/candan/11397.ts
+#EXTINF:-1,FR | TV BREITZ
+http://1.vip-src.com:8080/live/selahattin/candan/11374.ts
+#EXTINF:-1,FR | W9
+http://1.vip-src.com:8080/live/selahattin/candan/11375.ts
+#EXTINF:-1,FR | 13 EME RUE
+http://1.vip-src.com:8080/live/selahattin/candan/11348.ts
+#EXTINF:-1,FR | 6TER HD
+http://1.vip-src.com:8080/live/selahattin/candan/11349.ts
+#EXTINF:-1,FR | AB1 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11378.ts
+#EXTINF:-1,FR | AB3
+http://1.vip-src.com:8080/live/selahattin/candan/11351.ts
+#EXTINF:-1,FR | AB MOTEURS HD
+http://1.vip-src.com:8080/live/selahattin/candan/11350.ts
+#EXTINF:-1,FR | ARTE HD
+http://1.vip-src.com:8080/live/selahattin/candan/11384.ts
+#EXTINF:-1,FR | C8
+http://1.vip-src.com:8080/live/selahattin/candan/11360.ts
+#EXTINF:-1,FR | CANAL CINEMA HD
+http://1.vip-src.com:8080/live/selahattin/candan/11347.ts
+#EXTINF:-1,FR | CANAL DECALE HD
+http://1.vip-src.com:8080/live/selahattin/candan/11352.ts
+#EXTINF:-1,FR | CANAL HD
+http://1.vip-src.com:8080/live/selahattin/candan/11353.ts
+#EXTINF:-1,FR | CANAL J HD
+http://1.vip-src.com:8080/live/selahattin/candan/11405.ts
+#EXTINF:-1,FR | CANAL PLAY 1
+http://1.vip-src.com:8080/live/selahattin/candan/11354.ts
+#EXTINF:-1,FR | CANAL PLAY 2
+http://1.vip-src.com:8080/live/selahattin/candan/11355.ts
+#EXTINF:-1,FR | CANAL PLAY 3
+http://1.vip-src.com:8080/live/selahattin/candan/11356.ts
+#EXTINF:-1,FR | CANAL PLAY 4
+http://1.vip-src.com:8080/live/selahattin/candan/11357.ts
+#EXTINF:-1,FR | A LA CARTE 1
+http://1.vip-src.com:8080/live/selahattin/candan/11399.ts
+#EXTINF:-1,FR | A LA CARTE 2
+http://1.vip-src.com:8080/live/selahattin/candan/11398.ts
+#EXTINF:-1,FR | A LA CARTE 3
+http://1.vip-src.com:8080/live/selahattin/candan/11395.ts
+#EXTINF:-1,FR | A LA CARTE 4
+http://1.vip-src.com:8080/live/selahattin/candan/11394.ts
+#EXTINF:-1,FR | A LA CARTE 5
+http://1.vip-src.com:8080/live/selahattin/candan/11393.ts
+#EXTINF:-1,FR | A LA CARTE 6
+http://1.vip-src.com:8080/live/selahattin/candan/11376.ts
+#EXTINF:-1,FR | A LA CARTE 7
+http://1.vip-src.com:8080/live/selahattin/candan/11408.ts
+#EXTINF:-1,FR | A LA CARTE 8
+http://1.vip-src.com:8080/live/selahattin/candan/11381.ts
+#EXTINF:-1,FR | A LA CARTE 9
+http://1.vip-src.com:8080/live/selahattin/candan/11409.ts
+#EXTINF:-1,FR | CANAL SERIES HD
+http://1.vip-src.com:8080/live/selahattin/candan/11346.ts
+#EXTINF:-1,FR | CANAL SPORT HD
+http://1.vip-src.com:8080/live/selahattin/candan/11358.ts
+#EXTINF:-1,FR | Cartoon NetWork
+http://1.vip-src.com:8080/live/selahattin/candan/11380.ts
+#EXTINF:-1,FR | CHASSE ET PECHE
+http://1.vip-src.com:8080/live/selahattin/candan/11359.ts
+#EXTINF:-1,FR | CHERIE 25 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11383.ts
+#EXTINF:-1,FR | CINE  FAMILY HD
+http://1.vip-src.com:8080/live/selahattin/candan/11392.ts
+#EXTINF:-1,FR | CINE  FRISSON HD
+http://1.vip-src.com:8080/live/selahattin/candan/11396.ts
+#EXTINF:-1,FR | CINE  PREMIER HD
+http://1.vip-src.com:8080/live/selahattin/candan/11386.ts
+#EXTINF:-1,FR | CINE CLASSIC
+http://1.vip-src.com:8080/live/selahattin/candan/11412.ts
+#EXTINF:-1,FR | CINE  POLAR
+http://1.vip-src.com:8080/live/selahattin/candan/11411.ts
+#EXTINF:-1,FR | COMEDIE   HD
+http://1.vip-src.com:8080/live/selahattin/candan/11345.ts
+#EXTINF:-1,FR | DISNEY Channel
+http://1.vip-src.com:8080/live/selahattin/candan/11361.ts
+#EXTINF:-1,FR | DISNEY XD
+http://1.vip-src.com:8080/live/selahattin/candan/11387.ts
+#EXTINF:-1,FR | Foot  24 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11390.ts
+#EXTINF:-1,FR | InfoSport
+http://1.vip-src.com:8080/live/selahattin/candan/11407.ts
+#EXTINF:-1,FR | NAT GEO WILD
+http://1.vip-src.com:8080/live/selahattin/candan/11367.ts
+#EXTINF:-1,FR | TELETOON HD
+http://1.vip-src.com:8080/live/selahattin/candan/11373.ts
+#EXTINF:-1,FR | DISCOVERY SCIENCE HD
+http://1.vip-src.com:8080/live/selahattin/candan/11388.ts
+#EXTINF:-1,FR Eurosport 1
+http://1.vip-src.com:8080/live/selahattin/candan/10903.ts
+#EXTINF:-1,FR Eurosport 2
+http://1.vip-src.com:8080/live/selahattin/candan/10902.ts
+#EXTINF:-1,FR | SFR SPORT 1 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11344.ts
+#EXTINF:-1,FR | SFR SPORT 2 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11343.ts
+#EXTINF:-1,FR | SFR SPORT 3 HD
+http://1.vip-src.com:8080/live/selahattin/candan/11342.ts
+#EXTINF:-1,FR | beIN SPORT 1 FR
+http://1.vip-src.com:8080/live/selahattin/candan/10906.ts
+#EXTINF:-1,FR | beIN SPORT 2 FR
+http://1.vip-src.com:8080/live/selahattin/candan/10905.ts
+#EXTINF:-1,FR | beIN SPORT 3 FR
+http://1.vip-src.com:8080/live/selahattin/candan/10904.ts
+#EXTINF:-1,FR | BEINSPORT 4 MAX
+http://1.vip-src.com:8080/live/selahattin/candan/11341.ts
+#EXTINF:-1,FR | BEINSPORT 5 MAX
+http://1.vip-src.com:8080/live/selahattin/candan/11340.ts
+#EXTINF:-1,FR | BEINSPORT 6 MAX
+http://1.vip-src.com:8080/live/selahattin/candan/11339.ts
+#EXTINF:-1,FR | BEINSPORT 7 MAX
+http://1.vip-src.com:8080/live/selahattin/candan/11338.ts
+
+#EXTINF:-1,FR : W9
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56264.ts
+#EXTINF:-1,FR:  Cartoon Network HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56261.ts
+#EXTINF:-1,FR:  Discovery Science HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56260.ts
+#EXTINF:-1,FR:  Disney Jr Fr
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56259.ts
+#EXTINF:-1,FR:  Nat Geo HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56258.ts
+#EXTINF:-1,FR:  Nat Geo Wild  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56257.ts
+#EXTINF:-1,FR:  NRJ12 HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56256.ts
+#EXTINF:-1,FR: 13 EME RUE HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56255.ts
+#EXTINF:-1,FR: 6TER HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56254.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56253.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56252.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56251.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56250.ts
+#EXTINF:-1,FR: AB Moteur HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56249.ts
+#EXTINF:-1,FR: AB1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56248.ts
+#EXTINF:-1,FR: AB3
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56247.ts
+#EXTINF:-1,FR: ACTION
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56246.ts
+#EXTINF:-1,FR: ANIMAUX
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56245.ts
+#EXTINF:-1,FR: ARTE HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56244.ts
+#EXTINF:-1,FR: BE CURIOUS TV HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56299.ts
+#EXTINF:-1,FR: beINS PORTS 2HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56151.ts
+#EXTINF:-1,FR: BFM business
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56279.ts
+#EXTINF:-1,FR: BFM TV
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56204.ts
+#EXTINF:-1,FR: Boing
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56262.ts
+#EXTINF:-1,FR: BOOMERANG HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56263.ts
+#EXTINF:-1,FR: C8
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56236.ts
+#EXTINF:-1,FR: Canal  Cinema
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56235.ts
+#EXTINF:-1,FR: Canal  Decale
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56234.ts
+#EXTINF:-1,FR: Canal  Family
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56233.ts
+#EXTINF:-1,FR: CANAL  HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56295.ts
+#EXTINF:-1,FR: Canal  Series
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56232.ts
+#EXTINF:-1,FR: CANAL CINEMA HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56293.ts
+#EXTINF:-1,FR: CANAL HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56205.ts
+#EXTINF:-1,FR: CANAL J
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56230.ts
+#EXTINF:-1,FR: CANAL PLAY 1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56229.ts
+#EXTINF:-1,FR: CANAL PLAY 2
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56228.ts
+#EXTINF:-1,FR: CANAL PLAY 3
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56227.ts
+#EXTINF:-1,FR: CANAL PLAY 4
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56226.ts
+#EXTINF:-1,FR: CANAL PLAY 5
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56225.ts
+#EXTINF:-1,FR: CANAL PLAY 6
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56224.ts
+#EXTINF:-1,FR: CANAL PLAY 7
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56223.ts
+#EXTINF:-1,FR: Cartoon Network HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56292.ts
+#EXTINF:-1,FR: Chasse et Peche
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56222.ts
+#EXTINF:-1,FR: CHERIE 25 HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56221.ts
+#EXTINF:-1,FR: CINE CLASSIC
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56220.ts
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56219.ts
+#EXTINF:-1,FR: CINE EMOTION
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56218.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56217.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56216.ts
+#EXTINF:-1,FR: Cine Famiz HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56215.ts
+#EXTINF:-1,FR: Cine Famiz HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56291.ts
+#EXTINF:-1,FR: CINE FRISSON
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56214.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56213.ts
+#EXTINF:-1,FR: Cine Frisson HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56290.ts
+#EXTINF:-1,FR: CINE FX
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56212.ts
+#EXTINF:-1,FR: CINE POLAR
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56211.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56210.ts
+#EXTINF:-1,FR: Cine Premier HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56289.ts
+#EXTINF:-1,FR: COMEDIE  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56209.ts
+#EXTINF:-1,FR: COMEDIE Plus
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56208.ts
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56274.ts
+#EXTINF:-1,FR: CSTAR HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56207.ts
+#EXTINF:-1,FR: D17
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56206.ts
+#EXTINF:-1,FR: D8
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56237.ts
+#EXTINF:-1,FR: DISCOVERY
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56114.ts
+#EXTINF:-1,FR: Discovery Investigation HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56280.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56191.ts
+#EXTINF:-1,FR: DISNEY CINEMA
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56192.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56288.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56287.ts
+#EXTINF:-1,FR: Disney xd  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56193.ts
+#EXTINF:-1,FR: E! Entertainment
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56278.ts
+#EXTINF:-1,FR: ELLE GIRL HD 1080
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56111.ts
+#EXTINF:-1,FR: EQUIDIA LIFE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56300.ts
+#EXTINF:-1,FR: EQUIDIA live
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56194.ts
+#EXTINF:-1,FR: France 02 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56286.ts
+#EXTINF:-1,FR: France 03 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56285.ts
+#EXTINF:-1,FR: FRANCE 2
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56198.ts
+#EXTINF:-1,FR: France 4  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56199.ts
+#EXTINF:-1,FR: France 5 HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56200.ts
+#EXTINF:-1,FR: France O  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56201.ts
+#EXTINF:-1,FR: GAME ONE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56202.ts
+#EXTINF:-1,FR: GOLF  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56110.ts
+#EXTINF:-1,FR: GULLI HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56203.ts
+#EXTINF:-1,FR: HD1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56190.ts
+#EXTINF:-1,FR: HD1 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56284.ts
+#EXTINF:-1,FR: i Tele
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56189.ts
+#EXTINF:-1,FR: L'EQUIPE 21
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56187.ts
+#EXTINF:-1,FR: La Deux
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56186.ts
+#EXTINF:-1,FR: La une BE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56185.ts
+#EXTINF:-1,FR: LCI
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56184.ts
+#EXTINF:-1,FR: M6
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56183.ts
+#EXTINF:-1,FR: M6 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56283.ts
+#EXTINF:-1,FR: Mangas
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56181.ts
+#EXTINF:-1,FR: MCM
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56273.ts
+#EXTINF:-1,FR: MCM TOP
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56272.ts
+#EXTINF:-1,FR: National geo wild
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56180.ts
+#EXTINF:-1,FR: Nick Jr
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56271.ts
+#EXTINF:-1,FR: NICKELODEON HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56128.ts
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56179.ts
+#EXTINF:-1,FR: NRJ Hits
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56178.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56177.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56176.ts
+#EXTINF:-1,FR: OCS CITY
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56175.ts
+#EXTINF:-1,FR: OCS GEANT
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56174.ts
+#EXTINF:-1,FR: OCS MAX
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56173.ts
+#EXTINF:-1,FR: OLTV HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56172.ts
+#EXTINF:-1,FR: Orange Cine horreur HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56171.ts
+#EXTINF:-1,FR: Orange enquete exclusive HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56170.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56169.ts
+#EXTINF:-1,FR: PARIS PREMIERE  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56168.ts
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56167.ts
+#EXTINF:-1,FR: PIWI HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56166.ts
+#EXTINF:-1,FR: PLANETE  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56165.ts
+#EXTINF:-1,FR: PLANETE A&E HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56164.ts
+#EXTINF:-1,FR: PLANETE CI HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56163.ts
+#EXTINF:-1,FR: rmc decouverte
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56161.ts
+#EXTINF:-1,FR: RTL TVI
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56160.ts
+#EXTINF:-1,FR: RTS Deux
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56159.ts
+#EXTINF:-1,FR: RTS Un
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56158.ts
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56157.ts
+#EXTINF:-1,FR: SCIENCES & VIE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56156.ts
+#EXTINF:-1,FR: Seasons
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56270.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56155.ts
+#EXTINF:-1,FR: Series Club HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56154.ts
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56153.ts
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 2
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56152.ts
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 3
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56148.ts
+#EXTINF:-1,FR: Syfy HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56144.ts
+#EXTINF:-1,FR: Syfy HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56282.ts
+#EXTINF:-1,FR: Teva
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56143.ts
+#EXTINF:-1,FR: TF1 HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56142.ts
+#EXTINF:-1,FR: TF1 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56281.ts
+#EXTINF:-1,FR: Tiji
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56141.ts
+#EXTINF:-1,FR: TOUTE LHISTOIRE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56140.ts
+#EXTINF:-1,FR: TRACE URBAN
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56126.ts
+#EXTINF:-1,FR: TV BREIZH HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56139.ts
+#EXTINF:-1,FR: USHUAIA  HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56138.ts
+#EXTINF:-1,FR: Zouzou TV LOCAL
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56137.ts
+#EXTINF:-1,FR:A LA CARTE 5
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56136.ts
+#EXTINF:-1,FR:A la Carte 6
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56135.ts
+#EXTINF:-1,FR:A.LA.CARTE.1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56134.ts
+#EXTINF:-1,FR:A.LA.CARTE.3
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56133.ts
+#EXTINF:-1,FR:A.LA.CARTE.4
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56132.ts
+#EXTINF:-1,FR:CINE PREMIER
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56130.ts
+#EXTINF:-1,FR:FRANCE 24
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56129.ts
+#EXTINF:-1,FR:NT1
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56119.ts
+#EXTINF:-1,FR:TCM CINEMA
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56118.ts
+#EXTINF:-1,FR:TEVA/TMC
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56117.ts
+#EXTINF:-1,FR:TREK HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56116.ts
+#EXTINF:-1,FR:TV5 MONDE
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56115.ts
+#EXTINF:-1,FR:VOYAGE HD
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56113.ts
+#EXTINF:-1,VIP FR: ARTE HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56125.ts
+#EXTINF:-1,VIP FR: BRAVA HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56124.ts
+#EXTINF:-1,VIP FR: DISNEY CH HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56123.ts
+#EXTINF:-1,VIP FR: DISNEY CHANNEL FHD 1080
+http://smartiptvspain1.mine.nu:8000/live/amador/amador/56121.ts
+#EXTINF:-1,VIP FR: TMC HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/liv
